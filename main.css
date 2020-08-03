@@ -1,0 +1,72 @@
+body{
+    height:100%;
+    width:100%;
+}
+#education{
+    margin-top:5%;
+    width: 100%;
+    padding:5%;
+   
+   
+  }
+  #Volunteer{
+    margin-top:5%;
+    width: 100%;
+    padding:5%;
+    
+  }
+.Experiences{
+    height:100%;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            /* Footer height */
+    text-align: center;
+    font-size: 40px;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+    display: flex;
+    justify-self:space-evenly;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  #Project1{
+    margin-top:1%;
+    width: 100%;
+    padding:2%;
+    
+
+  }
+  #Project2{
+    margin-top:1%;
+    width: 100%;
+    padding:2%;
+    
+  }
+  #Project3{
+    margin-top:1%;
+    width: 100%;
+    padding:2%;
+    
+  }
